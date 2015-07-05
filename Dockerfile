@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Yoshikawa Ryota <yoshikawa@heartbeats.jp>
+MAINTAINER Yoshikawa Ryota <yoshikawa@rrreeyyy.com>
 
 RUN apt-get update -y && apt-get install -y \
       gcc \
